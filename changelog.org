@@ -57,6 +57,9 @@
 * Work log
   Log of merges/issues/work that's gone in so I know what to put in
   the changelog for the next release
+** 2012-01-07
+   - Add better coercion, adding {:as :json}, {:as :json-string-keys}
+     and {:as :auto}
 ** Release 0.2.7
 ** 2011-12-30
    - merged https://github.com/dakrone/clj-http/pull/31 to remove more
